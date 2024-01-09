@@ -1,8 +1,1 @@
 /busqueda
-config.py
-config_ngrok.yml
-/__pycache__
-/img
-.env
-geckodriver
-ligas_utiles.txt
